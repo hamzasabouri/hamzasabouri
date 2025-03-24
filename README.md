@@ -11,6 +11,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hamzasabouri&icon=5&color=3)](https://visitcount.itsvg.in)
